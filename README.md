@@ -25,4 +25,5 @@ Then run those commands in the terminal:
 
 == Gui
 - cd ./gui
+- rustup target add wasm32-unknown-unknown
 - trunk serve --open
